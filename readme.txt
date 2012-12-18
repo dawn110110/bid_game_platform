@@ -10,5 +10,4 @@
 <<<<<<< HEAD
 游戏规则基本与2012年sap code slam相同。
 =======
-游戏规则基本与2012年sap code slam相同。
 >>>>>>> 补充一下readme
