@@ -7,7 +7,5 @@
 在Linux/Mac上，`make`即可运行平台。
 在windows上，需要python运行环境。
 
-<<<<<<< HEAD
 游戏规则基本与2012年sap code slam相同。
-=======
->>>>>>> 补充一下readme
+
