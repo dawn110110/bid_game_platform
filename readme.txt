@@ -1,0 +1,1 @@
+on linux/mac just type make
